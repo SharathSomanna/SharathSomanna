@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @SharathSomanna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sharath Somanna
+Web Developer | Passionate about web development, UI designing, and open-source contributions.
+Key Interests | Experienced in React, Node.js, and Python. Passionate about building user-friendly and scalable web applications."]
 
-<!---
-SharathSomanna/SharathSomanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Keywords:
+React
+Node.js
+Python
+JavaScript
+HTML
+CSS
+RESTful APIs
+Databases (e.g., MongoDB, PostgreSQL)
+Git & GitHub
