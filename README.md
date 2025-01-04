@@ -1,4 +1,5 @@
-Sharath Somanna
+Sharath Somanna ;
+
 Web Developer | Passionate about web development, UI designing, and open-source contributions.
 Key Interests | Experienced in React, Node.js, and Python. Passionate about building user-friendly and scalable web applications."]
 
